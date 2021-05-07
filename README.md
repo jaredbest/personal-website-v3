@@ -1,8 +1,8 @@
 <div align="center">
-  <img alt="Logo" src="https://raw.githubusercontent.com/jaredbest/personal-website-v2/master/images/logo.png" width="100" />
+  <img alt="Logo" src="https://raw.githubusercontent.com/jaredbest/personal-website-v3/master/images/logo.png" width="100" />
 </div>
 <h1 align="center">
-  jaredbest.com - v2
+  jaredbest.com - v3
 </h1>
 <p align="center">
   The second iteration of <a href="https://www.jaredbest.com/" target="_blank">www.jaredbest.com</a>; built with <a href="https://reactjs.org/" target="_blank">React</a> and hosted on <a href="https://www.netlify.com/" target="_blank">Netlify</a>.
