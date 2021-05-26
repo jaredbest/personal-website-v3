@@ -82,10 +82,10 @@ function Home({ lightMode }) {
   return (
     <Layout>
       <Helmet>
-        <title>Home - Chester React Personal Portfolio Template</title>
+        <title>Jared Best | Freelance Creative Technologist</title>
         <meta
           name="description"
-          content="Chester React Personal Portfolio Template Homepage"
+          content="Jared Best | Freelance Creative Technologist"
         />
       </Helmet>
       <div className="mi-home-area mi-padding-section">

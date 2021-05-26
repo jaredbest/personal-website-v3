@@ -36,10 +36,10 @@ function Projects() {
   return (
     <Layout>
       <Helmet>
-        <title>Projects - Chester React Personal Portfolio Template</title>
+        <title>Projects of Jared Best | Freelance Creative Technologist</title>
         <meta
           name="description"
-          content="Chester React Personal Portfolio Template Projects Page"
+          content="Projects of Jared Best | Freelance Creative Technologist"
         />
       </Helmet>
       <div className="mi-about mi-section mi-padding-top mi-padding-bottom">
