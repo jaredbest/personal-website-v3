@@ -16,9 +16,9 @@ function BlogDetails(props) {
     });
   }, [content, blogFile]);
 
-  const disqusShortname = "chester-react"; //found in your Disqus.com dashboard
+  const disqusShortname = "jared_best"; // Found in your Disqus.com dashboard.
   const disqusConfig = {
-    url: "https://tf-react-chester.now.sh/", //Homepage link of this site.
+    url: "https://www.jaredbest.com/", // Homepage link of this site.
     identifier: blogId,
     title: blogFile,
   };
