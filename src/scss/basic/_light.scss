@@ -87,14 +87,14 @@
   /* Checkbox & Radio Styles */
   input[type="checkbox"],
   input[type="radio"] {
-    & ~ label {
+    &~label {
       &:before {
         border-color: $light-color-border;
       }
     }
 
     &:checked {
-      & ~ label {
+      &~label {
         color: $light-color-theme;
 
         &:before {
@@ -106,14 +106,14 @@
   }
 
   input[type="radio"] {
-    & ~ label {
+    &~label {
       &::before {
         border: 2px solid $light-color-border;
       }
     }
 
     &:checked {
-      & ~ label {
+      &~label {
         &::before {
           color: $light-color-theme;
           border-color: $light-color-theme;
@@ -145,7 +145,7 @@
       svg {
         fill: #fff;
 
-        & > * {
+        &>* {
           fill: #fff;
         }
       }
@@ -254,6 +254,7 @@
 
           &.active {
             color: #ffffff;
+            text-decoration: none;
 
             &::before {
               background: $light-color-theme;
@@ -379,6 +380,7 @@
 
       ul {
         li {
+
           a,
           button {
             background: $light-color-body;
@@ -456,8 +458,7 @@
       background: darken($light-color-bg-body, 5);
 
       &::after {
-        border-color: darken($light-color-bg-body, 5) transparent transparent
-          darken($light-color-bg-body, 5);
+        border-color: darken($light-color-bg-body, 5) transparent transparent darken($light-color-bg-body, 5);
       }
     }
 

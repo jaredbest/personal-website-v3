@@ -114,6 +114,7 @@
 
                 &.active {
                     color: #ffffff;
+                    text-decoration: none;
 
                     &::before {
                         background: $color-theme;
