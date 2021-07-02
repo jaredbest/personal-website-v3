@@ -19,9 +19,9 @@ function BlogDetails(props) {
       .catch((err) => console.log(err));
   }, [blogFile]);
 
-  const disqusShortname = "jared_best"; //found in your Disqus.com dashboard
+  const disqusShortname = "jared_best"; // Found on your Disqus.com dashboard.
   const disqusConfig = {
-    url: "https://www.jaredbest.com/", //Homepage link of this site.
+    url: "https://www.jaredbest.com/", // Homepage link of this site.
     identifier: blogId,
     title: blogFile,
   };
