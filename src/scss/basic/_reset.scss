@@ -7,6 +7,7 @@ html {
     font-size: 1em;
     line-height: 1.4;
 }
+
 ::-moz-selection {
     background: #b3d4fc;
     text-shadow: none;
@@ -16,6 +17,7 @@ html {
     background: #b3d4fc;
     text-shadow: none;
 }
+
 hr {
     display: block;
     height: 1px;
@@ -24,6 +26,7 @@ hr {
     margin: 1em 0;
     padding: 0;
 }
+
 audio,
 canvas,
 iframe,
@@ -42,6 +45,7 @@ fieldset {
 textarea {
     resize: vertical;
 }
+
 .browserupgrade {
     margin: 0.2em 0;
     background: #ccc;
@@ -114,10 +118,10 @@ textarea {
         text-shadow: none !important;
     }
 
-    a,
-    a:visited {
-        text-decoration: underline;
-    }
+    // a,
+    // a:visited {
+    //     text-decoration: underline;
+    // }
 
     a[href]:after {
         content: " ("attr(href) ")";
