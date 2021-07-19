@@ -120,47 +120,40 @@ const database = {
     //   url: "https://www.etsy.com/shop/AllThingsTransport",
     // },
     {
-      id: 6,
+      id: 5,
       title: "Donut & Coffee",
       subtitle: "I rendered this as part of a Blender course, which covered topics such as Modeling, Sculpting, Materials, Lighting, Particles, UV Unwrapping, Texture Paining, Procedural Texturing, Displacement, Photo Texturing, and Volumetrics.",
       imageUrl: "/images/projects/blender-donut-and-coffee/blender-donut-and-coffee.png",
       url: "https://dribbble.com/shots/14615605-Donut-Coffee-Blender-Render",
     },
     {
-      id: 5,
+      id: 4,
       title: "Legend of Zelda: Link's Awakening Look-Alike",
       subtitle: "Following the tutorial of the incredible Mister Taft Creates and adding my own stuff along the way, I am developing this 2D game in Unity.",
       imageUrl: "/images/projects/legend-of-zelda/legend-of-zelda.gif",
       url: "https://github.com/jaredbest/unity-legend-of-zelda-links-awakening-look-alike",
     },
     {
-      id: 4,
+      id: 3,
       title: "Mapping Ticonderoga",
       subtitle: "Ticonderoga is a town in Essex County, New York, USA. On OpenStreetMap (OSM), there was quite a bit of emptiness within the town boundary, so I used JOSM to fill in the gaps.",
       imageUrl: "/images/projects/mapping-ticonderoga/mapping-ticonderoga-dynamic.gif",
       url: "https://www.openstreetmap.org/#map=15/43.8474/-73.4276",
     },
     {
-      id: 3,
+      id: 2,
       title: "Output PTV Vissim Parking Lot Occupancy to CSV",
       subtitle: "I created a PTV Vissim integrated Python script which outputs a CSV file containing the parking lot occupancy per unit of time as defined by the user.",
       imageUrl: "/images/projects/github.jpg",
       url: "https://github.com/jaredbest/output-ptv-vissim-parking-lot-occupancy-to-csv",
     },
     {
-      id: 2,
+      id: 1,
       title: "Extract PTV Vissim Link Attributes to CSV",
       subtitle: "I expanded on a Python script that parses a PTV Vissim INPX file and exports a CSV file containing relevant link attributes.",
       imageUrl: "/images/projects/github.jpg",
       url: "https://github.com/jaredbest/extract-ptv-vissim-link-attributes-to-csv",
-    },
-    {
-      id: 1,
-      title: "Truck Parking Demand Modeling",
-      subtitle: "In collaboration with a research colleague, I developed a methodology for modeling truck parking demand along freeway corridors using traffic microsimulation. Results were published in the ITE Journal.",
-      imageUrl: "/images/projects/truck-parking-demand-modeling/truck-parking-demand-modeling.png",
-      url: "https://www.nxtbook.com/ygsreprints/ITE/G110110_ITE_October2019/index.php#/p/22",
-    },
+    }
   ],
   experience: {
     workingExperience: [{
