@@ -21,7 +21,7 @@ const database = {
       pinterest: "",
       behance: "",
     },
-    brandImage: "/images/brand-image.jpg",
+    brandImage: "/images/brand-image.png",
     aboutImage: "/images/about-image.jpg",
     aboutImageLg: "/images/g-about-image.jpg",
     cvfile: "",
