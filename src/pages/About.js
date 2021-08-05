@@ -98,7 +98,7 @@ function About() {
                   I am <span className="color-theme">{information.name}</span>
                 </h3>
                 <p>
-                  Originally from the Adirondacks, I have lived in Canada and now Germany and travel any chance I get. I'm an avid hiker, cyclist, podcast addict, greenhorn investor, self-taught coder, and life-long learner.
+                  Originally from the Adirondacks, I have lived in Canada and now Germany. I'm an avid traveler, hiker, cyclist, podcast addict, greenhorn investor, self-taught coder, and life-long learner.
                 </p>
                 <ul>
                   {!information.name ? null : (
