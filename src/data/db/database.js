@@ -3,7 +3,7 @@ import Mock from "../mock";
 const database = {
   information: {
     name: "Jared Best",
-    aboutContent: "I'm a freelance creative technologist working at the intersection of engineering, design, and IT. Although my interests are broad, I'm passionate in leveraging technology in the fields of mobility analytics and urban informatics.",
+    aboutContent: "Doctoral researcher by day, creative technologist by night. Although my interests are broad, I'm passionate in leveraging technology at the intersection of engineering, design, and IT. This place showcases some of the projects I've worked on in my spare time.",
     age: "",
     phone: "",
     nationality: "American",

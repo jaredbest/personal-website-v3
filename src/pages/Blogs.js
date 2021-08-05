@@ -33,10 +33,10 @@ function Blogs() {
   return (
     <Layout>
       <Helmet>
-        <title>Blog of Jared Best | Freelance Creative Technologist</title>
+        <title>Blog of Jared Best | Creative Technologist</title>
         <meta
           name="description"
-          content="Blog of Jared Best | Freelance Creative Technologist"
+          content="Blog of Jared Best | Creative Technologist"
         />
       </Helmet>
       <div className="mi-about mi-section mi-padding-top mi-padding-bottom">

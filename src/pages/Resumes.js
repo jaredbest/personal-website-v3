@@ -26,10 +26,10 @@ function Resumes() {
   return (
     <Layout>
       <Helmet>
-        <title>Resume of Jared Best | Freelance Creative Technologist</title>
+        <title>Resume of Jared Best | Creative Technologist</title>
         <meta
           name="description"
-          content="Resume of Jared Best | Freelance Creative Technologist"
+          content="Resume of Jared Best | Creative Technologist"
         />
       </Helmet>
       <div className="mi-skills-area mi-section mi-padding-top">

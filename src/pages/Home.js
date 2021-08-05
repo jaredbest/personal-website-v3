@@ -82,10 +82,10 @@ function Home({ lightMode }) {
   return (
     <Layout>
       <Helmet>
-        <title>Jared Best | Freelance Creative Technologist</title>
+        <title>Jared Best | Creative Technologist</title>
         <meta
           name="description"
-          content="Jared Best | Freelance Creative Technologist"
+          content="Jared Best | Creative Technologist"
         />
       </Helmet>
       <div className="mi-home-area mi-padding-section">

@@ -69,10 +69,10 @@ function Contact() {
   return (
     <Layout>
       <Helmet>
-        <title>Contact Jared Best | Freelance Creative Technologist</title>
+        <title>Contact Jared Best | Creative Technologist</title>
         <meta
           name="description"
-          content="Contact Jared Best | Freelance Creative Technologist"
+          content="Contact Jared Best | Creative Technologist"
         />
       </Helmet>
       <div className="mi-contact-area mi-section mi-padding-top mi-padding-bottom">

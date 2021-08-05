@@ -59,10 +59,10 @@ function About() {
   return (
     <Layout>
       <Helmet>
-        <title>About Jared Best | Freelance Creative Technologist</title>
+        <title>About Jared Best | Creative Technologist</title>
         <meta
           name="description"
-          content="About Jared Best | Freelance Creative Technologist"
+          content="About Jared Best | Creative Technologist"
         />
       </Helmet>
       <div className="mi-about-area mi-section mi-padding-top">
@@ -98,11 +98,7 @@ function About() {
                   I am <span className="color-theme">{information.name}</span>
                 </h3>
                 <p>
-                  Originally from the Adirondacks, I'm currently living in
-                  Karlsruhe, Germany. I'm an avid hiker, cyclist, podcast addict,
-                  greenhorn investor, self-taught coder, and life-long learner.
-                  I have lived in the United States and Canada and travel
-                  whenever I get a chance.
+                  Originally from the Adirondacks, I travel any chance I get and have lived in the United States, Canada, and now Germany. I'm an avid hiker, cyclist, podcast addict, greenhorn investor, self-taught coder, and life-long learner.
                 </p>
                 <ul>
                   {!information.name ? null : (

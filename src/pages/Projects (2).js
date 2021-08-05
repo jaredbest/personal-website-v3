@@ -36,10 +36,10 @@ function Projects() {
   return (
     <Layout>
       <Helmet>
-        <title>Projects of Jared Best | Freelance Creative Technologist</title>
+        <title>Projects of Jared Best | Creative Technologist</title>
         <meta
           name="description"
-          content="Projects of Jared Best | Freelance Creative Technologist"
+          content="Projects of Jared Best | Creative Technologist"
         />
       </Helmet>
       <div className="mi-about mi-section mi-padding-top mi-padding-bottom">
